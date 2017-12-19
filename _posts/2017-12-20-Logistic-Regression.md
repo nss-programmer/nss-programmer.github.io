@@ -1,4 +1,4 @@
 ---
 layout: post
-title: Logistic Regression
+title: Explaning *Logistic Regression* to a kid 
 ---
