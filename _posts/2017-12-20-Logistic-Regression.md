@@ -1,4 +1,4 @@
 ---
 layout: post
-title: Explaning Logistic Regression to a novice 
+title: How to explain Logistic Regression to a novice 
 ---
