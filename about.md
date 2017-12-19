@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Have never won a programming competition... So I am on a mission to write a program which will definitely win a programming competition in future.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
+###Contact me:
 [nityasevak@gmail.com](mailto:nityasevak@gmail.com)
