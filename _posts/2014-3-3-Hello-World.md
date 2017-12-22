@@ -9,4 +9,12 @@ I havn't yet dared to solve P vs NP, but as of now my interest particularly lies
 
 <a href="https://www.codechef.com/problems/KALKI">1.KALI AND DEVTAS</a>
 
+<a href="https://www.codechef.com/problems/EMBED">2.EMBEDDING</a>
+
+<a href="https://www.codechef.com/problems/SCLUSTER">3.SOCIAL CLUSTER</a>
+
+<a href="https://www.codechef.com/problems/EBOLA">4.FIGHTING EBOLA</a>
+
+I look forward to come up with more interesting problems. Stay tuned at <a href="https://www.codechef.com">CODECHEF</a>.
+
 
