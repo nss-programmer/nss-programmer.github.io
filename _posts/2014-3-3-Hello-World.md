@@ -3,9 +3,7 @@ layout: post
 title: My stint as problem setter at Codechef
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+The problem statement of P vs NP appears to be deceptively simple on the surface, but it is colossal underneath. The main objective is to determine whether there exist problems whose solution can be quickly checked, which require an impossibly long time to solve by any direct procedure.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
 
