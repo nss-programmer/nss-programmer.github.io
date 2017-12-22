@@ -1,5 +1,4 @@
-
 ---
 layout: post
-title: A short intro to Lagrange Multiplier
+title: A short intro to Lagrange Multiplier 
 ---
