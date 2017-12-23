@@ -23,4 +23,5 @@ Now lets come back to our original discussion. Lets say we have an objective fun
 
 ![_config.yml]({{ site.baseurl }}/images/LAGRANGE2.png)
 
+max<sub>x</sub>min<sub>λ</sub>f(x)−λ(g(x)−c)
 
