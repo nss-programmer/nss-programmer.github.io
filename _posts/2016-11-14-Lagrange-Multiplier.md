@@ -23,5 +23,5 @@ Now lets come back to our original discussion. Lets say we have an objective fun
 
 ![_config.yml]({{ site.baseurl }}/images/LAGRANGE2.png)
 
-max~x~min~λ~f(x)−λ(g(x)−c)
+At any point **(x,y)**, the gradient **∇f(x,y)** is a vector which tells us the direction in which we should move inorder to increase **f** as efficiently as possible. As long as we are moving in that direction we are certainly going to increase **f**. 
 
