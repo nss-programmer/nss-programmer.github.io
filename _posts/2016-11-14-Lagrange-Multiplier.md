@@ -8,11 +8,11 @@ Before getting started with Lagrange multipliers lets understand **contour lines
 
 A **contour** is a way to visualize a three-dimensional function in two dimensions. In such a representation of the function, for each point on a contour line, the function returns the same value. Lets consider the following three functions.
 
-![_config.yml]({{ site.baseurl }}/images/logisticregression.png)
+![_config.yml]({{ site.baseurl }}/images/contours1.png)
 
-![_config.yml]({{ site.baseurl }}/images/logisticregression.png)
+![_config.yml]({{ site.baseurl }}/images/contours2.png)
 
-![_config.yml]({{ site.baseurl }}/images/logisticregression.png)
+![_config.yml]({{ site.baseurl }}/images/contours3.png)
 
 
 
