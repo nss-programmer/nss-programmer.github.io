@@ -14,5 +14,7 @@ A **contour** is a way to visualize a three-dimensional function in two dimensio
 
 ![_config.yml]({{ site.baseurl }}/images/contours3.png)
 
+In all the above cases for each point on the contour line, the function returns the same value. And one more thing to notice is darker the area is, smaller the value of the function is.
+
 
 
