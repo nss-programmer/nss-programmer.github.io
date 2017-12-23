@@ -19,8 +19,8 @@ In all the above cases for each point on the contour line, the function returns 
 Now lets come back to our original discussion. Lets say we have an objective function **f(x,y)** which we need to maximize under a constraint of the form **g(x,y)=c**. Lets visualize this problem statement before we go deeper into our discussion.
 
 
-![_config.yml]({{ site.baseurl }}/images/contours1.png)
+![_config.yml]({{ site.baseurl }}/images/LANGRANGE1.png)
 
-![_config.yml]({{ site.baseurl }}/images/contours1.png)
+![_config.yml]({{ site.baseurl }}/images/LAGRANGE2.png)
 
 
