@@ -29,7 +29,7 @@ One thing we have to keep in mind that while climbing the hill we have to stay o
 
 ![_config.yml]({{ site.baseurl }}/images/LAGRANGE4.png)
 
-While moving along the constraint curve **g(x,y)=c** we need to simultaneously observe how our movement on the surface of **f**. If we are moving in a direction that has a non-trivial component along the gradient ∇f(x,y), we are still going to increase **f**. The moment we can only move in a direction orthogonal to the gradient ∇f(x,y), then we won't be able to increase **f** anymore. Here we have reached a local maximum. At this point the gradient of **f** and the gradient of **g** are pointing in the same direction. In other words, they are proportional. In other words, there is some constant **λ** such that the gradient of **f** is **λ** times the gradient of **g**. This **λ** is our **Lagrange Multiplier**.
+While moving along the constraint curve **g(x,y)=c** we need to simultaneously observe how we move on the surface of **f**. If we are moving in a direction that has a non-trivial component along the gradient **∇f(x,y)**, we are still going to increase **f**. The moment we can only move in a direction orthogonal to the gradient **∇f(x,y)**, then we won't be able to increase **f** anymore. Here we have reached a local maximum. At this point the gradient of **f** and the gradient of **g** are pointing in the same direction. In other words, they are proportional. In other words, there is some constant **λ** such that the gradient of **f** is **λ** times the gradient of **g**. This **λ** is our **Lagrange Multiplier**.
 
 ![_config.yml]({{ site.baseurl }}/images/LAGRANGE3.png)
 
