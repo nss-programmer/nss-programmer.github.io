@@ -35,4 +35,8 @@ While moving along the constraint curve **g(x,y)=c** we need to simultaneously o
 
 At point **A** the gradient of the function **f** to be maximized has a component along the direction we can move in. This is not the local maximum as we can increase **f** by moving to the right. At point **B** we can only move perpendicular to the gradient of **f**. Therefore this is the local maximum. 
 
+The final equation is **∇f(x,y)=λ∇g(x,y)**
+
+
+
 
