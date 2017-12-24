@@ -46,5 +46,3 @@ We can call the function **L** as **Lagrange function**.
 The final step is to set the gradient of **L** equal to the zero vector i.e, **∇L(x,y,λ)=0**
 
 So our objective is to find the **critical points** of **L**.
-
-
