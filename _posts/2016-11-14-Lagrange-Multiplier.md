@@ -16,13 +16,13 @@ A **contour** is a way to visualize a three-dimensional function in two dimensio
 
 In all the above cases for each point on the contour line, the function returns the same value.
 
-Now lets come back to our original discussion. Lets say we have an objective function **f(x,y)** which we need to maximize under a constraint of the form **g(x,y)=c**. Lets visualize this problem statement before we go deeper into our discussion.
+Now lets come back to our original discussion. Lets say we have an objective function **f(x,y)** which we need to maximize under a constraint of the form **g(x,y)=c**. Lets visualize this problem statement before we go deeper into our discussion. 
 
 
 ![_config.yml]({{ site.baseurl }}/images/LANGRANGE1.png)
 
 ![_config.yml]({{ site.baseurl }}/images/LAGRANGE2.png)
 
-At any point **(x,y)**, the gradient **∇f(x,y)** is a vector which tells us the direction in which we should move inorder to increase **f** as efficiently as possible. As long as we are moving in that direction we are certainly going to increase **f**. 
+At any point **(x,y)**, the gradient **∇f(x,y)** is a vector which tells us the direction in which we should move inorder to increase **f** as efficiently as possible. As long as we are moving in that direction we are certainly going to increase **f**. This is the direction of steepest ascent. The gradient of any function evaluated at a particular point **(x,y)** always gives a vector perpendicular to the contour line passing through that point.
 
-One thing we have to keep in mind that while climbing the hill we have to stay on the constraint curve **g(x,y)=c** all the time.
+One thing we have to keep in mind that while climbing the hill we have to stay on the constraint curve **g(x,y)=c** all the time. In other words we are only allowed to move along the tangents to this constraint curve.
