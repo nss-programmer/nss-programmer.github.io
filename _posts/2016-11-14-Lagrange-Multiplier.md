@@ -37,6 +37,12 @@ At point **A** the gradient of the function **f** to be maximized has a componen
 
 The final equation is **∇f(x,y)=λ∇g(x,y)**
 
+We can define a new function **L** as below:
+
+**L(x,y,λ)=f(x,y)-λ(g(x,y)-c)**
+
+We can call the function **L** as **Lagrange function**.
+
 
 
 
