@@ -25,4 +25,6 @@ Now lets come back to our original discussion. Lets say we have an objective fun
 
 At any point **(x,y)**, the gradient **∇f(x,y)** is a vector which tells us the direction in which we should move inorder to increase **f** as efficiently as possible. As long as we are moving in that direction we are certainly going to increase **f**. This is the direction of steepest ascent. The gradient of any function evaluated at a particular point **(x,y)** always gives a vector perpendicular to the contour line passing through that point.
 
-One thing we have to keep in mind that while climbing the hill we have to stay on the constraint curve **g(x,y)=c** all the time. In other words we are only allowed to move along the tangents to this constraint curve.
+One thing we have to keep in mind that while climbing the hill we have to stay on the constraint curve **g(x,y)=c** all the time. In other words we are only allowed to move along the tangents to this constraint curve. Since these tangents are orthogonal to the gradient of the constraint function **g**, while moving along the constraint curve **g(x,y)=c** its value remain constant.
+
+![_config.yml]({{ site.baseurl }}/images/LAGRANGE4.png)
