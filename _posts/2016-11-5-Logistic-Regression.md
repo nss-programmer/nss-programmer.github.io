@@ -16,4 +16,8 @@ Logistic regression equation is just rewriting the linear regression equation wi
 
 In the above case, the link function is a **logit link function**.
 
+The logit for a number p between 0 and 1 is given as below :
+
+![_config.yml]({{ site.baseurl }}/images/logit.png)
+
 
