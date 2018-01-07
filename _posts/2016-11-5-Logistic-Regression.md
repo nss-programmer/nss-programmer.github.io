@@ -13,3 +13,7 @@ In case of linear regression, the dependent variable is a linear combination of 
 Logistic regression equation is just rewriting the linear regression equation with dependent variable enclosed in a **link function**.
 
 ![_config.yml]({{ site.baseurl }}/images/linear_regression_link.jpg)
+
+In the above case, the link function is a **logit link function**.
+
+
