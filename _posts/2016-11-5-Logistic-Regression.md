@@ -9,3 +9,5 @@ First of all thanks to **David Cox** for popularizing such a dominating method f
 In case of linear regression, the dependent variable is a linear combination of the independent variables.
 
 ![_config.yml]({{ site.baseurl }}/images/linear_regression.jpg)
+
+Logistic regression equation is just rewriting the linear regression equation with dependent variable enclosed in a **link function**.
