@@ -21,3 +21,5 @@ The logit for a number p between 0 and 1 is given as below :
 ![_config.yml]({{ site.baseurl }}/images/logit.png)
 
 The link function can be defined as **g(Y) = log( p(Y) / ( 1 - p(Y) ))**
+
+Since the dependent variable **Y** is categorical, **p(Y)** is simply the probability of **Y** belonging to different classes.
