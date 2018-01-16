@@ -25,3 +25,5 @@ The link function can be defined as **g(Y) = log( p(Y) / ( 1 - p(Y) ))**
 Since the dependent variable **Y** is categorical, **p(Y)** is simply the probability of **Y** belonging to different classes.
 
 ## Why logit link function ?
+
+The dependent variable in case of logistic regression is categorical. For simplicity lets assume it can take two values , either 0 or 1.
