@@ -38,8 +38,8 @@ The simplest way of doing this is **P(Y) = Z/(1+Z)** , where **Z** is a positive
 
 But rather than choosing just any positive integer as **Z** , we choose **Z = e^Y** for following reasons.
 
-(i) Bounded between 0 and 1.
-(ii) Derivative can be easily calculated.
+(i) Bounded between 0 and 1.<br>
+(ii) Derivative can be easily calculated.<br>
 (iii) It easily introduces non-linearity into the model.
 
 
