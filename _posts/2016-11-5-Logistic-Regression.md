@@ -36,7 +36,12 @@ How can we determine the value of **P(Y)** so that it must  always be greater th
 
 The simplest way of doing this is **P(Y) = Z/(1+Z)** , where **Z** is a positive integer.
 
-But rather than choosing just any positive integer as **Z** , we choose $$Z = e^{Y}$$ for following reasons.
+But rather than choosing just any positive integer as **Z** , we choose **Z = e^Y** for following reasons.
+
+(i) Bounded between 0 and 1.
+(ii) Derivative can be easily calculated.
+(iii) It easily introduces non-linearity into the model.
+
 
 
 
