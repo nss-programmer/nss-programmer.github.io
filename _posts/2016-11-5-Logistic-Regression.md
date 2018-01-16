@@ -24,4 +24,4 @@ The link function can be defined as **g(Y) = log( p(Y) / ( 1 - p(Y) ))**
 
 Since the dependent variable **Y** is categorical, **p(Y)** is simply the probability of **Y** belonging to different classes.
 
-##Why logit link function ?
+## Why logit link function ?
