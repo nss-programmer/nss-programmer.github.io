@@ -27,3 +27,8 @@ Since the dependent variable **Y** is categorical, **p(Y)** is simply the probab
 ## Why logit link function ?
 
 The dependent variable **Y** in case of logistic regression is categorical. For simplicity lets assume it can take two values , either 0 or 1.
+
+So its quite reasonable to be concerned about the probability of **Y**, i.e, **P(Y)** which must satisfy the following criteria
+
+**0 <= P(Y) <= 1**
+
