@@ -36,5 +36,8 @@ How can we determine the value of **P(Y)** so that it must  always be greater th
 
 The simplest way of doing this is **P(Y) = Z/(1+Z)** , where **Z** is a positive integer.
 
+But rather than choosing just any positive integer as **Z** , we choose **Z = e<sup>Y</sup>** for following reasons.
+
+
 
 
