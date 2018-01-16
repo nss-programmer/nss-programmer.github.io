@@ -32,3 +32,9 @@ So its quite reasonable to be concerned about the probability of **Y** taking th
 
 **0 <= P(Y) <= 1**
 
+How can we determine the value of **P(Y)** so that it must  always be greater than or equal to zero and less than or equal to one.
+
+The simplest way of doing this is **P(Y) = Z/(1+Z)** , where **Z** is a positive integer.
+
+
+
