@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: A short intro to Lagrange Multiplier 
 ---
 In this article I will try my best to explain what exactly a **Lagrange Multiplier** means and how these multipliers play important role in solving some of the crucial optimization problems in the context of machine learning.
