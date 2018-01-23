@@ -72,6 +72,6 @@ We need to maximize the objective function **f(h,s)** subject to the above const
 
 In the following diagrams , the objective function **f(h,s)** is represented as blue curve whereas the constraint **g(h,s)** is represented as red line. The values of **f(h,s)** yield a given revenue which satisfies the constraint.
 
-![_config.yml]({{ site.baseurl }}/images/LAGRANGE3.png)
+![_config.yml]({{ site.baseurl }}/images/lagrange_problem1.JPG)
 
-![_config.yml]({{ site.baseurl }}/images/LAGRANGE3.png)
+![_config.yml]({{ site.baseurl }}/images/lagrange_problem2.JPG)
