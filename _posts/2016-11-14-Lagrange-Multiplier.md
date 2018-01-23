@@ -70,7 +70,7 @@ As per as the problem statement  20h + 170s = 20000 ( This is our constraint sin
 
 We need to maximize the objective function **f(h,s)** subject to the above constraint **g(h,s)**.
 
-In the following diagrams , the objective function **f(h,s)** is represented as blue curve whereas the constraint **g(h,s)** is represented as red line. The values of **f(h,s)** yield a given revenue which satisfies the constraint.
+In the following diagrams , the objective function **f(h,s)** is represented as blue curve whereas the constraint **g(h,s)** is represented as red line. The values of **f(h,s)** yield a given revenue **R** which satisfies the constraint.
 
 ![_config.yml]({{ site.baseurl }}/images/lagrange_problem1.JPG)
 
