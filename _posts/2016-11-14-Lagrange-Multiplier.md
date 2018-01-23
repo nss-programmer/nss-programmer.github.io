@@ -82,11 +82,17 @@ L(x,y,λ) = f(x,y)-λ(g(x,y)-c) = 200 x (h^2/3) x (s^1/3) - λ x (20h + 170s - 2
 
 Next we set the gradient **∇L** equal to the **0** vector. This is same as setting each partial derivative equal to **0**. 
 
-First, we compute partial derivative with respect to **h**.
+First, we compute the partial derivative with respect to **h**.
 
 ∂L/∂h = 0 <br>
 => ∂ (200 x (h^2/3) x (s^1/3) - λ x (20h + 170s - 20000))/∂h = 0 <br>
 => 200 x (2/3) x (h^(-1/3)) x (s^(1/3)) - 20 x λ = 0   ....................**Equation I** <br>
 
+Next, we compute the partial derivative with respect to **s**.
 
+∂L/∂s = 0 <br>
+=> ∂ (200 x (h^2/3) x (s^1/3) - λ x (20h + 170s - 20000))/∂s = 0 <br>
+=> 200 x (1/3) x (h^(2/3)) x (s^(-2/3)) - 170 x λ = 0   ....................**Equation II** <br>
+
+Finally we set the partial derivative with respective to **λ** equal to **0**.
 
