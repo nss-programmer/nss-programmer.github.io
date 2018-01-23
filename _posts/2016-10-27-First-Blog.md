@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: My stint as a problem setter at Codechef
 ---
 
