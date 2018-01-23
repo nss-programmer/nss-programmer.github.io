@@ -84,9 +84,9 @@ Next we set the gradient **∇L** equal to the **0** vector. This is same as set
 
 First, we compute partial derivative with respect to **h**.
 
-∂L/∂h = 0 
-=> ∂ (200 x (h^2/3) x (s^1/3) - λ x (20h + 170s - 20000))/∂h = 0
-=> 200 x (2/3) x (h^(-1/3)) x (s^(1/3)) - 20 x λ = 0                ....................Equation I
+∂L/∂h = 0 <br>
+=> ∂ (200 x (h^2/3) x (s^1/3) - λ x (20h + 170s - 20000))/∂h = 0 <br>
+=> 200 x (2/3) x (h^(-1/3)) x (s^(1/3)) - 20 x λ = 0   ....................**Equation I** <br>
 
 
 
