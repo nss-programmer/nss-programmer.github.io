@@ -104,9 +104,9 @@ Finally we set the partial derivative with respective to **λ** equal to **0**.
 The above equation is same as the constraint itself. So setting the partial derivative of **L** with respect to **λ** equal to **0** is same as re-writing the constraint.
 
 Solving **Equation I,II,III** together we obtain <br>
-**h ≈ 666.667 ** <br>
-**s ≈ 39.2157 ** <br>
-**λ ≈ 2.593 ** <br>
+**h ≈ 666.667** <br>
+**s ≈ 39.2157** <br>
+**λ ≈ 2.593** <br>
 
 The maximum revenue can be computed as below<br>
 
