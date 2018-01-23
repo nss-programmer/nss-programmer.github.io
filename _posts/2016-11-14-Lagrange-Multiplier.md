@@ -68,5 +68,5 @@ So the total cost of production = 20h + 170s , where h = total hours of labor an
 
 As per as the problem statement  20h + 170s = 20000 ( This is our constraint since it is in the form **g(h,s)=c** , c=constant )
 
-We need to maximize the objective function **f(h,s)** subject to the above constraint.
+We need to maximize the objective function **f(h,s)** subject to the above constraint **g(h,s)**.
 
