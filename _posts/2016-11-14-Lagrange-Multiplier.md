@@ -96,3 +96,11 @@ Next, we compute the partial derivative with respect to **s**.
 
 Finally we set the partial derivative with respective to **λ** equal to **0**.
 
+∂L/∂λ = 0 <br>
+=> ∂ (200 x (h^2/3) x (s^1/3) - λ x (20h + 170s - 20000))/∂λ = 0 <br>
+=> -20 x h -170 x s + 20000 = 0 <br>
+20 x h + 170 x s = 20000    ....................**Equation III** <br>
+
+The above equation is same as the constraint itself. So setting the partial derivative of **L** with respect to **λ** equal to **0** is same as re-writing the constraint.
+
+
