@@ -52,7 +52,7 @@ Lets solve a constraint optimization problem using **Lagrange Multiplier Method*
 **Problem Statement :**
 Suppose a factory produces some sort of widget that requires steel as a raw material. The human labor cost is **$20** per hour for workers and the cost of steel is **$170** per ton. Suppose the revenue **R** is loosely modeled by the following equation :
 
-**R(h,s)=200*(h^2/3)*(s^1/3)**
+**R(h,s)=200 x (h^2/3) x (s^1/3)**
 
 **h** represents hours of labor
 **s** represents tons of steel
