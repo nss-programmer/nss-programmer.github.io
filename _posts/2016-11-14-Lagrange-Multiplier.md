@@ -64,7 +64,9 @@ If the total budget is $20000, then what is the maximum possible revenue ?
 Per hour labor cost = $20
 Per ton steel cost = $170
 
-So the total cost of prosuction = 20h + 170s , where h = total hours of labor and s = total tons of steel
+So the total cost of production = 20h + 170s , where h = total hours of labor and s = total tons of steel
 
 As per as the problem statement  20h + 170s = 20000 ( This is our constraint )
+
 We need to maximize the objective function **R(h,s)** subject to the above constraint.
+
