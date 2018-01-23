@@ -43,6 +43,22 @@ We can define a new function **L** as below:
 
 We can call the function **L** as **Lagrange function**.
 
-The final step is to set the gradient of **L** equal to the zero vector i.e, **∇L(x,y,λ)=0**
+The final step is to set the gradient of **L** equal to the zero  vector i.e, **∇L(x,y,λ)=0**
 
 So our objective is to find the **critical points** of **L**.
+
+Lets solve a constraint optimization problem using **Lagrange Multiplier Method**.
+
+**Problem Statement :**
+Suppose a factory produces some sort of widget that requires steel as a raw material. The human labor cost is **$20** per hour for workers and the cost of steel is **$170** per ton. Suppose the revenue **R** is loosely modeled by the following equation :
+
+**R(h,s)=200*(h^2/3)*(s^1/3)**
+
+**h** represents hours of labor
+**s** represents tons of steel
+
+If the total budget is $20000, then what is the maximum possible revenue ?
+
+**Solution**
+
+
