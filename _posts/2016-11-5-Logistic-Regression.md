@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: How to explain Logistic Regression to a novice 
 ---
 First of all thanks to **David Cox** for popularizing such a dominating method for the analysis of binary data.
