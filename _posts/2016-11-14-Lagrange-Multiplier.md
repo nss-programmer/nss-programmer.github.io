@@ -74,4 +74,4 @@ In the following diagrams , the objective function **f(h,s)** is represented as 
 
 ![_config.yml]({{ site.baseurl }}/images/lagrange_problem1.JPG)
 
-![_config.yml]({{ site.baseurl }}/images/lagrange_problem2.JPG)
+![_config.yml]({{ site.baseurl }}/images/lagrange_problem3.JPG)
