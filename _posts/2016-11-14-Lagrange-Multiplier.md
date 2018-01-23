@@ -75,3 +75,10 @@ In the following diagrams , the objective function **f(h,s)** is represented as 
 ![_config.yml]({{ site.baseurl }}/images/lagrange_problem1.JPG)
 
 ![_config.yml]({{ site.baseurl }}/images/lagrange_problem3.JPG)
+
+So we can write the **Lagrange Function** as below :
+
+L(x,y,λ) = f(x,y)-λ(g(x,y)-c) = 200 x (h^2/3) x (s^1/3) - λ x (20h + 170s - 20000)
+
+Next we set the gradient **∇L** equal to the **0** vector. This is same as setting each partial derivative equal to **0**. 
+
