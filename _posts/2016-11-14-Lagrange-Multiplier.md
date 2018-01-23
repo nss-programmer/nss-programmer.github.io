@@ -49,7 +49,7 @@ So our objective is to find the **critical points** of **L**.
 
 Lets solve a constraint optimization problem using **Lagrange Multiplier Method**.
 
-**Problem Statement :**
+**Problem Statement :**<br><br>
 Suppose a factory produces some sort of widget that requires steel as a raw material. The human labor cost is **$20** per hour for workers and the cost of steel is **$170** per ton. Suppose the revenue is loosely modeled by the following equation :
 
 **f(h,s)= 200 x (h^2/3) x (s^1/3)**
