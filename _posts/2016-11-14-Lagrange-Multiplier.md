@@ -115,3 +115,5 @@ The maximum revenue can be computed as below<br>
 ![_config.yml]({{ site.baseurl }}/images/lagrange_problem2.JPG)
 
 Now lets discuss application of **Lagrange Multiplier Method** in the context of machine learning.<br>
+
+In this context I would like to discuss one of the best **off-the-shelf** supervised learning algorithms - **Support Vector Machines**.<br>
