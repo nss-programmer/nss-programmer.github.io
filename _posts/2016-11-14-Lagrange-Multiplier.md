@@ -113,3 +113,5 @@ The maximum revenue can be computed as below<br>
 **f(666.667,39.2157) = 200 x ((666.667)^2/3) x ((39.2157)^1/3) ≈ $51777** <br>
 
 ![_config.yml]({{ site.baseurl }}/images/lagrange_problem2.JPG)
+
+Now lets discuss application of **Lagrange Multiplier Method** in the context of machine learning.<br>
