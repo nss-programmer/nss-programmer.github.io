@@ -16,5 +16,5 @@ So in today's image-driven world its getting more and more difficult to find spe
 
    Now lets discuss some of the technical aspects of **Visual Search**. The core task here is quantitative estimation of visual similarity between a pair of images. The visual similarity of a pair of images can  be quantitatively estimated through learnt models on top of traditional image processing techniques such as **SIFT** ( **S**cale-**I**nvariant **F**eature **T**ransform ) and **HOG** ( **H**istogram of **O**riented **G**radients ). However these models are limited by the expressive power of these features. In this case **deep convolutional neural networks** stand out to be a better choice. First of all a deep CNN maps a high-dimensional image on to a low dimensional latent space and then makes an attempt to find its neighbors within the latent space.
    
-![_config.yml]({{ site.baseurl }}/images/logisticregression.png)
+![_config.yml]({{ site.baseurl }}/images/tnevisual.jpeg)
 ![_config.yml]({{ site.baseurl }}/images/visualsearch2.png)
