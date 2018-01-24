@@ -23,5 +23,5 @@ So in today's image-driven world its getting more and more difficult to find spe
 
   Image search is handled via a **k-nearest neighbor search** in the latent space. Multiple images of each product are embedded with the network and stored in multiple binary tree structures for fast k-nearest neighbor search. A query image is pushed through the network to get embedding and classification scores. Highly probabilistic class predictions restrict the search space and a subset of binary trees are searched for nearest neighbors of the embedding. The final search result is a merged list of product images from the binary tree searches.
 
-  With image data being readily available, and an ever-increasing number of mobile devices being given cameras and connections to the internet, immense research is going on in the field of **Visual Search**, based loosely around the adage that **An image is worth a thosand words**.
+  With image data being readily available, and an ever-increasing number of mobile devices being given cameras and connections to the internet, immense research is going on in the field of **Visual Search**, based loosely around the adage that **An image is worth a thousand words**.
   
