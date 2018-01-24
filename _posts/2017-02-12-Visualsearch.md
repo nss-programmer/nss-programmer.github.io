@@ -18,3 +18,10 @@ So in today's image-driven world its getting more and more difficult to find spe
    
 ![_config.yml]({{ site.baseurl }}/images/tsnevisual.png)
 ![_config.yml]({{ site.baseurl }}/images/visualsearch2.png)
+
+  The CNN has two outputs, an embedding vector for the latent space and product-type classification probabilities for known product categories. The classifier uses the embedding vector as input which shares computations between both tasks. Training data consist of positive image pairs, negative image pairs, and class labels. Positive pairs are different images of the same product and negative pairs are randomly sampled pairs. Batches of image pairs are iterated through the network to optimize weights for two tasks. Positive pairs are pushed closer together than negative pairs and classification accuracy is improved.
+
+  Image search is handled via a **k-nearest neighbor search** in the latent space. Multiple images of each product are embedded with the network and stored in multiple binary tree structures for fast k-nearest neighbor search. A query image is pushed through the network to get embedding and classification scores. Highly probabilistic class predictions restrict the search space and a subset of binary trees are searched for nearest neighbors of the embedding. The final search result is a merged list of product images from the binary tree searches.
+
+  With image data being readily available, and an ever-increasing number of mobile devices being given cameras and connections to the internet, immense research is going on in the field of **Visual Search**, based loosely around the adage that **An image is worth a thosand words**.
+  
